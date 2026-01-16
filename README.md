@@ -1,4 +1,3 @@
-```markdown
 # NLP-course-Autumn-2025: Unsupervised Discovery of Thematic Structure in Russian-Mansi Bilingual Texts
 
 ## 🎯 Project Overview
