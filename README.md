@@ -1,4 +1,3 @@
-```markdown
 # NLP-course-Autumn-2025: Unsupervised Discovery of Thematic Structure in Russian-Mansi Bilingual Texts
 
 ## 🎯 Project Overview
@@ -43,7 +42,6 @@ git clone https://github.com/0z0nize/NLP-course-Autumn-2025.git
 cd NLP-course-Autumn-2025
 
 # 2. Setup environment (Python 3.10+)
-pip install -r requirements.txt
 
 # 3. Download Russian-Mansi parallel corpus
 # [Public dataset link provided in paper]
