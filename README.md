@@ -86,7 +86,7 @@ hdbscan                # Density clustering
 
 ## 📄 Full Paper
 
-[Unsupervised_Discovery_of_Thematic_Structure_in_Russian_Mansi_Bilingual_Texts.pdf](path/to/paper.pdf)
+[Unsupervised_Discovery_of_Thematic_Structure_in_Russian_Mansi_Bilingual_Texts.pdf](https://github.com/0z0nize/NLP-course-Autumn-2025/blob/main/report/Unsupervised_Discovery_of_Thematic_Structure_in_Russian_Mansi_Bilingual_Texts.pdf)
 
 **Key findings:** Sentence embedding clustering establishes new state-of-the-art results for topic modeling in low-resource language settings.
 
