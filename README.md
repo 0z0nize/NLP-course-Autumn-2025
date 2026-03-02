@@ -1,7 +1,7 @@
 # NLP-course-Autumn-2025: Unsupervised Discovery of Thematic Structure in Russian-Mansi Bilingual Texts
+![NLP_9_25-9](https://github.com/user-attachments/assets/f880ed16-fa02-4c7a-b3a3-0fc4907ea704)
 
 ## 🎯 Project Overview
-![NLP_9_25-9](https://github.com/user-attachments/assets/f880ed16-fa02-4c7a-b3a3-0fc4907ea704)
 
 This repository implements a comprehensive comparative study of **unsupervised topic modeling techniques** applied to a **parallel Russian-Mansi corpus** containing **81,146 sentence pairs**. The primary objective is to create **thematically structured corpora** that support **Mansi language learning** and **linguistic analysis** for this critically endangered Uralic language spoken by only **~1,000–1,500 native speakers** primarily in Western Siberia.
 
