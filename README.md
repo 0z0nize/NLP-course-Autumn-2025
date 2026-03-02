@@ -65,9 +65,9 @@ hdbscan                # Density clustering
 
 | Name | Contributions |
 |------|---------------|
-| **Sofia Baranetskaya** | Exploratory Data Analysis, data preprocessing & cleaning, model training |
-| **Vadim Korobkovskii** | Literature review, sentence embedding clustering, BERTopic implementation, 20NG benchmark |
-| **Vladislav Shkarovskii** | Experimental design, LDA implementation, 20NG analysis |
+| **[Sofia Baranetskaya](https://github.com/Sofia-Baranetskaya)** | Exploratory Data Analysis, data preprocessing & cleaning, model training |
+| **[Vadim Korobkovskii](https://github.com/VadimKorobkovskii)** | Literature review, sentence embedding clustering, BERTopic implementation, 20NG benchmark |
+| **[Vladislav Shkarovskiy](https://github.com/0z0nize)** | Experimental design, LDA implementation, 20NG analysis |
 
 ## 📚 Dataset Preprocessing Highlights
 
